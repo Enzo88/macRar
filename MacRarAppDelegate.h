@@ -2,7 +2,7 @@
 //  MacRarAppDelegate.h
 //  MacRar
 //
-//  Created by Vincenzo Pimpinella on 25/08/11.
+//  Created by Vincenzo Pimpinella on 25/08/11
 //  Copyright 2011 Sapienza. All rights reserved.
 //
 
